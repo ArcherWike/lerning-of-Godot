@@ -1,2 +1,2 @@
 # lerning-of-Godot
-RPG game
+RPG game from HeartBeast tutorial on YouTube
